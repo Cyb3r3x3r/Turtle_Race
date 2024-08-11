@@ -1,2 +1,4 @@
 # Turtle_Race
-a simple tutle racing and betting program in python.
+a simple turtle racing and betting program in python.
+#### Using Turtle and Screen
+#### Turtle colors to bet
